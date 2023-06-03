@@ -4,6 +4,8 @@ the air in the sleeping room.
 All is controlled trough a simple html webinterface in the local wifi network and the co2+temperature mesurements are uploaded to a IoT API (thinger) to
 visualize the data.
 
+The great library for the MH-Z19 CO2 sensor was not written by me, unfortunately i can't find the author anymore. Thanks for building it!
+
 CO2+Temperature Sensor: MH-Z19
 
 Microcontroller: Raspberry Pi Pico running Micropython
