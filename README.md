@@ -1,5 +1,5 @@
 # sunrise_alarm_clock_micropython
-Sunrise alarm clock which activates lamp with relay (or 433mHz outlets) at a set time. Also CO2 logger which shows the current concentration of carbon dioxide in ppm to log and monitor
+Sunrise alarm clock which activates lamp with relay at a set time. Also CO2 logger which shows the current concentration of carbon dioxide in ppm to log and monitor
 the air in the sleeping room.
 All is controlled trough a simple html webinterface in the local wifi network and the co2+temperature mesurements are uploaded to a IoT API (thinger) to
 visualize the data.
